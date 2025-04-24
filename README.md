@@ -38,7 +38,7 @@ Alternatif olarak:
 pip install streamlit pandas yfinance openpyxl
 
 Uygulamayı Başlatın
-streamlit run app.py
+streamlit run dca.py
 
 🧪 Kullanım
 Hisse kodunu girin (örnek: THYAO.IS)
