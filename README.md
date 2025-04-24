@@ -1,4 +1,4 @@
-# 📈 Aylık BIST Yatırımı Simülatörü
+# 📈 Aylık BIST Yatırımı Simülatörü (DCA)
 
 Bu Streamlit uygulaması, belirli bir hisse senedine aylık bazda yapılan yatırımların USD bazında getirisini simüle eder. Kullanıcıdan alınan girişlere göre geçmiş fiyatlar ve döviz kurları kullanılarak kâr hesaplaması yapılır ve Excel dosyası olarak indirilebilir.
 
